@@ -12,11 +12,7 @@ import android.widget.Button;
 import android.widget.TextView;
 import android.widget.Toast;
 
-public class QuizActivity extends AppCompatActivity {
-
-    private static final String CREATOR = "immigration9";
-    // Created by MinGu
-    // Not by JaeHyun
+public class QuizActivity extends AppCompatActivity { //최신
 
     private static final String TAG = "QuizActivity";
     private static final String KEY_INDEX = "index";
