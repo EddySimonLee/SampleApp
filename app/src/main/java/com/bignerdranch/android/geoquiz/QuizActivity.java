@@ -14,6 +14,10 @@ import android.widget.Toast;
 
 public class QuizActivity extends AppCompatActivity {
 
+    private static final String CREATOR = "immigration9";
+    // Created by MinGu
+    // Not by JaeHyun
+
     private static final String TAG = "QuizActivity";
     private static final String KEY_INDEX = "index";
     private static final String KEY_CHEAT[] = {"cheat1","cheat2","cheat3","cheat4","cheat5"};
